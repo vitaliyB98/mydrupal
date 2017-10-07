@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains gridics_import.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function gridics_import_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the gridics_import module.
+    case 'help.page.gridics_import':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Gridics import module') . '</p>';
+      return $output;
+
+    default:
+  }
+}

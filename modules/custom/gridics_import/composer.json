@@ -1,0 +1,14 @@
+{
+  "name": "drupal/gridics_import",
+  "type": "drupal-module",
+  "description": "Gridics import module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/gridics_import",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/gridics_import",
+    "source": "http://cgit.drupalcode.org/gridics_import"
+  },
+  "require": { }
+}
