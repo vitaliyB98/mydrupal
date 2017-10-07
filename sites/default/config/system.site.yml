@@ -1,0 +1,14 @@
+uuid: 15f2cb5d-9c63-4279-8ef5-2b1aeeb3eb67
+name: Gridics
+mail: gridics@gridics.loc
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
